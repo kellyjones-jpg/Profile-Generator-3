@@ -1,0 +1,27 @@
+{
+  "name": "profile-generator-3",
+  "version": "1.0.0",
+  "description": "Create a command-line application that dynamically generates a PDF profile from a GitHub username. The application will be invoked with the following command:",
+  "main": "index.js",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "html-pdf": "^2.2.0",
+    "inquirer": "^7.0.4",
+    "request": "^2.88.0",
+    "util": "^0.12.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kellyjones-jpg/Profile-Generator-3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kellyjones-jpg/Profile-Generator-3/issues"
+  },
+  "homepage": "https://github.com/kellyjones-jpg/Profile-Generator-3#readme"
+}
